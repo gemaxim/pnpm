@@ -33,7 +33,7 @@
   "dependencies": {
     "@pnpm/client": "workspace:*",
     "@pnpm/package-store": "workspace:*",
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/store-controller-types": "workspace:*"
   },
   "devDependencies": {
