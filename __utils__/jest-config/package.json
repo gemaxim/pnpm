@@ -4,7 +4,7 @@
   "private": true,
   "main": "jest-preset.js",
   "dependencies": {
-    "@pnpm/registry-mock": "catalog:",
+    "@pnpm/registry-mock": "5.0.0",
     "@pnpm/worker": "workspace:*",
     "get-port": "catalog:",
     "tree-kill": "catalog:"
